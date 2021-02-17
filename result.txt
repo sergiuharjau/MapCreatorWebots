@@ -1,0 +1,585 @@
+FsCone {
+	translation 8.95 -0.3 8.44
+	name "coneyellow0"
+	color "yellow"
+}
+FsCone {
+	translation 11.05 -0.3 8.39
+	name "coneyellow1"
+	color "yellow"
+}
+FsCone {
+	translation 14.25 -0.3 8.39
+	name "coneyellow2"
+	color "yellow"
+}
+FsCone {
+	translation 12.8 -0.3 8.34
+	name "coneyellow3"
+	color "yellow"
+}
+FsCone {
+	translation 15.8 -0.3 8.29
+	name "coneyellow4"
+	color "yellow"
+}
+FsCone {
+	translation 7.75 -0.3 8.44
+	name "coneyellow5"
+	color "yellow"
+}
+FsCone {
+	translation 15.95 -0.3 9.14
+	name "coneyellow6"
+	color "yellow"
+}
+FsCone {
+	translation 15.95 -0.3 10.14
+	name "coneyellow7"
+	color "yellow"
+}
+FsCone {
+	translation 16.05 -0.3 11.19
+	name "coneyellow8"
+	color "yellow"
+}
+FsCone {
+	translation 7.85 -0.3 7.14
+	name "coneblue9"
+	color "blue"
+}
+FsCone {
+	translation 9.05 -0.3 7.24
+	name "coneblue10"
+	color "blue"
+}
+FsCone {
+	translation 11.05 -0.3 7.14
+	name "coneblue11"
+	color "blue"
+}
+FsCone {
+	translation 12.95 -0.3 7.04
+	name "coneblue12"
+	color "blue"
+}
+FsCone {
+	translation 14.3 -0.3 6.84
+	name "coneblue13"
+	color "blue"
+}
+FsCone {
+	translation 15.95 -0.3 6.89
+	name "coneblue14"
+	color "blue"
+}
+FsCone {
+	translation 17.15 -0.3 6.99
+	name "coneblue15"
+	color "blue"
+}
+FsCone {
+	translation 17.25 -0.3 8.04
+	name "coneblue16"
+	color "blue"
+}
+FsCone {
+	translation 17.25 -0.3 9.04
+	name "coneblue17"
+	color "blue"
+}
+FsCone {
+	translation 17.1 -0.3 9.74
+	name "coneblue18"
+	color "blue"
+}
+FsCone {
+	translation 17.2 -0.3 10.74
+	name "coneblue19"
+	color "blue"
+}
+FsCone {
+	translation 15.7 -0.3 11.89
+	name "coneyellow20"
+	color "yellow"
+}
+FsCone {
+	translation 15.35 -0.3 12.49
+	name "coneyellow21"
+	color "yellow"
+}
+FsCone {
+	translation 15.2 -0.3 12.84
+	name "coneyellow22"
+	color "yellow"
+}
+FsCone {
+	translation 15.2 -0.3 13.59
+	name "coneyellow23"
+	color "yellow"
+}
+FsCone {
+	translation 15.6 -0.3 14.14
+	name "coneyellow24"
+	color "yellow"
+}
+FsCone {
+	translation 16.15 -0.3 14.44
+	name "coneyellow25"
+	color "yellow"
+}
+FsCone {
+	translation 17.5 -0.3 11.49
+	name "coneblue26"
+	color "blue"
+}
+FsCone {
+	translation 17.0 -0.3 12.14
+	name "coneblue27"
+	color "blue"
+}
+FsCone {
+	translation 16.35 -0.3 12.59
+	name "coneblue28"
+	color "blue"
+}
+FsCone {
+	translation 16.4 -0.3 13.19
+	name "coneblue29"
+	color "blue"
+}
+FsCone {
+	translation 16.9 -0.3 13.64
+	name "coneblue30"
+	color "blue"
+}
+FsCone {
+	translation 17.45 -0.3 14.19
+	name "coneblue31"
+	color "blue"
+}
+FsCone {
+	translation 16.25 -0.3 15.64
+	name "coneyellow32"
+	color "yellow"
+}
+FsCone {
+	translation 16.3 -0.3 15.09
+	name "coneyellow33"
+	color "yellow"
+}
+FsCone {
+	translation 16.25 -0.3 16.59
+	name "coneyellow34"
+	color "yellow"
+}
+FsCone {
+	translation 15.75 -0.3 16.84
+	name "coneyellow35"
+	color "yellow"
+}
+FsCone {
+	translation 15.1 -0.3 16.69
+	name "coneyellow36"
+	color "yellow"
+}
+FsCone {
+	translation 14.25 -0.3 16.19
+	name "coneyellow37"
+	color "yellow"
+}
+FsCone {
+	translation 17.85 -0.3 14.84
+	name "coneblue38"
+	color "blue"
+}
+FsCone {
+	translation 18.2 -0.3 15.79
+	name "coneblue39"
+	color "blue"
+}
+FsCone {
+	translation 18.05 -0.3 16.74
+	name "coneblue40"
+	color "blue"
+}
+FsCone {
+	translation 17.8 -0.3 17.39
+	name "coneblue41"
+	color "blue"
+}
+FsCone {
+	translation 17.25 -0.3 18.19
+	name "coneblue42"
+	color "blue"
+}
+FsCone {
+	translation 16.7 -0.3 18.59
+	name "coneblue43"
+	color "blue"
+}
+FsCone {
+	translation 15.65 -0.3 18.89
+	name "coneblue44"
+	color "blue"
+}
+FsCone {
+	translation 15.05 -0.3 18.64
+	name "coneblue45"
+	color "blue"
+}
+FsCone {
+	translation 14.3 -0.3 18.29
+	name "coneblue46"
+	color "blue"
+}
+FsCone {
+	translation 13.9 -0.3 17.79
+	name "coneblue47"
+	color "blue"
+}
+FsCone {
+	translation 13.5 -0.3 15.39
+	name "coneyellow48"
+	color "yellow"
+}
+FsCone {
+	translation 12.6 -0.3 14.94
+	name "coneyellow49"
+	color "yellow"
+}
+FsCone {
+	translation 12.1 -0.3 14.04
+	name "coneyellow50"
+	color "yellow"
+}
+FsCone {
+	translation 11.55 -0.3 13.14
+	name "coneyellow51"
+	color "yellow"
+}
+FsCone {
+	translation 10.85 -0.3 12.64
+	name "coneyellow52"
+	color "yellow"
+}
+FsCone {
+	translation 10.15 -0.3 11.94
+	name "coneyellow53"
+	color "yellow"
+}
+FsCone {
+	translation 13.4 -0.3 17.39
+	name "coneblue54"
+	color "blue"
+}
+FsCone {
+	translation 12.65 -0.3 16.84
+	name "coneblue55"
+	color "blue"
+}
+FsCone {
+	translation 12.3 -0.3 16.59
+	name "coneblue56"
+	color "blue"
+}
+FsCone {
+	translation 12.0 -0.3 16.24
+	name "coneblue57"
+	color "blue"
+}
+FsCone {
+	translation 11.45 -0.3 15.39
+	name "coneblue58"
+	color "blue"
+}
+FsCone {
+	translation 10.9 -0.3 14.94
+	name "coneblue59"
+	color "blue"
+}
+FsCone {
+	translation 10.4 -0.3 14.54
+	name "coneblue60"
+	color "blue"
+}
+FsCone {
+	translation 9.8 -0.3 13.94
+	name "coneblue61"
+	color "blue"
+}
+FsCone {
+	translation 9.3 -0.3 13.24
+	name "coneblue62"
+	color "blue"
+}
+FsCone {
+	translation 8.9 -0.3 12.39
+	name "coneblue63"
+	color "blue"
+}
+FsCone {
+	translation 9.55 -0.3 10.74
+	name "coneyellow64"
+	color "yellow"
+}
+FsCone {
+	translation 8.6 -0.3 10.44
+	name "coneyellow65"
+	color "yellow"
+}
+FsCone {
+	translation 7.75 -0.3 10.29
+	name "coneyellow66"
+	color "yellow"
+}
+FsCone {
+	translation 6.7 -0.3 10.24
+	name "coneyellow67"
+	color "yellow"
+}
+FsCone {
+	translation 8.4 -0.3 12.09
+	name "coneblue68"
+	color "blue"
+}
+FsCone {
+	translation 7.55 -0.3 11.69
+	name "coneblue69"
+	color "blue"
+}
+FsCone {
+	translation 6.95 -0.3 11.59
+	name "coneblue70"
+	color "blue"
+}
+FsCone {
+	translation 6.45 -0.3 11.39
+	name "coneblue71"
+	color "blue"
+}
+FsCone {
+	translation 5.8 -0.3 9.94
+	name "coneyellow72"
+	color "yellow"
+}
+FsCone {
+	translation 5.8 -0.3 9.94
+	name "coneyellow73"
+	color "yellow"
+}
+FsCone {
+	translation 5.1 -0.3 9.94
+	name "coneyellow74"
+	color "yellow"
+}
+FsCone {
+	translation 4.65 -0.3 10.49
+	name "coneyellow75"
+	color "yellow"
+}
+FsCone {
+	translation 4.55 -0.3 11.14
+	name "coneyellow76"
+	color "yellow"
+}
+FsCone {
+	translation 4.5 -0.3 11.69
+	name "coneyellow77"
+	color "yellow"
+}
+FsCone {
+	translation 4.5 -0.3 12.24
+	name "coneyellow78"
+	color "yellow"
+}
+FsCone {
+	translation 4.45 -0.3 13.09
+	name "coneyellow79"
+	color "yellow"
+}
+FsCone {
+	translation 4.25 -0.3 13.64
+	name "coneyellow80"
+	color "yellow"
+}
+FsCone {
+	translation 3.65 -0.3 13.79
+	name "coneyellow81"
+	color "yellow"
+}
+FsCone {
+	translation 2.9 -0.3 13.89
+	name "coneyellow82"
+	color "yellow"
+}
+FsCone {
+	translation 2.1 -0.3 13.44
+	name "coneyellow83"
+	color "yellow"
+}
+FsCone {
+	translation 1.7 -0.3 12.94
+	name "coneyellow84"
+	color "yellow"
+}
+FsCone {
+	translation 1.3 -0.3 11.79
+	name "coneyellow85"
+	color "yellow"
+}
+FsCone {
+	translation 1.15 -0.3 11.09
+	name "coneyellow86"
+	color "yellow"
+}
+FsCone {
+	translation 1.5 -0.3 9.99
+	name "coneyellow87"
+	color "yellow"
+}
+FsCone {
+	translation 2.25 -0.3 9.14
+	name "coneyellow88"
+	color "yellow"
+}
+FsCone {
+	translation 3.0 -0.3 8.49
+	name "coneyellow89"
+	color "yellow"
+}
+FsCone {
+	translation 4.65 -0.3 8.24
+	name "coneyellow90"
+	color "yellow"
+}
+FsCone {
+	translation 5.6 -0.3 8.34
+	name "coneyellow91"
+	color "yellow"
+}
+FsCone {
+	translation 6.45 -0.3 8.34
+	name "coneyellow92"
+	color "yellow"
+}
+FsCone {
+	translation 6.9 -0.3 8.34
+	name "coneyellow93"
+	color "yellow"
+}
+FsCone {
+	translation 6.25 -0.3 12.39
+	name "coneblue94"
+	color "blue"
+}
+FsCone {
+	translation 6.05 -0.3 13.34
+	name "coneblue95"
+	color "blue"
+}
+FsCone {
+	translation 5.85 -0.3 13.79
+	name "coneblue96"
+	color "blue"
+}
+FsCone {
+	translation 5.45 -0.3 14.24
+	name "coneblue97"
+	color "blue"
+}
+FsCone {
+	translation 4.95 -0.3 14.74
+	name "coneblue98"
+	color "blue"
+}
+FsCone {
+	translation 4.4 -0.3 15.09
+	name "coneblue99"
+	color "blue"
+}
+FsCone {
+	translation 3.7 -0.3 15.39
+	name "coneblue100"
+	color "blue"
+}
+FsCone {
+	translation 3.3 -0.3 15.39
+	name "coneblue101"
+	color "blue"
+}
+FsCone {
+	translation 2.2 -0.3 15.44
+	name "coneblue102"
+	color "blue"
+}
+FsCone {
+	translation 1.45 -0.3 15.09
+	name "coneblue103"
+	color "blue"
+}
+FsCone {
+	translation 0.85 -0.3 14.64
+	name "coneblue104"
+	color "blue"
+}
+FsCone {
+	translation 0.6 -0.3 14.09
+	name "coneblue105"
+	color "blue"
+}
+FsCone {
+	translation 0.4 -0.3 12.99
+	name "coneblue106"
+	color "blue"
+}
+FsCone {
+	translation 0.35 -0.3 11.94
+	name "coneblue107"
+	color "blue"
+}
+FsCone {
+	translation 0.3 -0.3 10.39
+	name "coneblue108"
+	color "blue"
+}
+FsCone {
+	translation 0.65 -0.3 9.69
+	name "coneblue109"
+	color "blue"
+}
+FsCone {
+	translation 0.95 -0.3 9.09
+	name "coneblue110"
+	color "blue"
+}
+FsCone {
+	translation 1.75 -0.3 8.59
+	name "coneblue111"
+	color "blue"
+}
+FsCone {
+	translation 2.8 -0.3 7.79
+	name "coneblue112"
+	color "blue"
+}
+FsCone {
+	translation 4.0 -0.3 7.19
+	name "coneblue113"
+	color "blue"
+}
+FsCone {
+	translation 4.8 -0.3 7.14
+	name "coneblue114"
+	color "blue"
+}
+FsCone {
+	translation 6.0 -0.3 6.89
+	name "coneblue115"
+	color "blue"
+}
+FsCone {
+	translation 7.05 -0.3 7.04
+	name "coneblue116"
+	color "blue"
+}
