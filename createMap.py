@@ -30,4 +30,4 @@ if __name__ == "__main__":
         i+=1
         result += fullString 
 
-    open("result.txt", "w").write(result)
+    open("map.txt", "w").write(result)
