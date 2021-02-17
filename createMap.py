@@ -19,7 +19,7 @@ if __name__ == "__main__":
     result = ""
     i=0
     for x, y, label in zip(xList, yList, labelList):
-        if label == " 3": 
+        if int(label) == 3 or int(label) == 0: 
             colour = "blue"
         else:
             colour = "yellow"
