@@ -3,7 +3,7 @@ def getInput():
     x = []
     y = []
     label = []
-    for line in open("mapInput.txt").readlines():
+    for line in open("inputsCoordinates.txt").readlines():
         values = line[:-1].split(",")
         y.append(values[0]) #webots is reversed
         x.append(values[1])
