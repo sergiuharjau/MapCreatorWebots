@@ -1,13 +1,15 @@
 
 def getInput():
+    scalingY = 1000
+    scalingX = 1000
     x = []
     y = []
     label = []
-    for line in open("inputsCoordinates.txt").readlines():
+    for line in open("inputCoordinates.txt").readlines():
         values = line[:-1].split(",")
-        y.append(values[0]) #webots is reversed
-        x.append(values[1])
-        label.append(values[2])
+        y.append(float(values[0])/scalingY) #webots is reversed
+        x.append(float(values[1])/scalingX)
+        label.append(int(values[2]))
 
     return x, y, label
 
@@ -19,7 +21,7 @@ if __name__ == "__main__":
     result = ""
     i=0
     for x, y, label in zip(xList, yList, labelList):
-        if int(label) == 3 or int(label) == 0: 
+        if label == 3 or label == 0: 
             colour = "blue"
         else:
             colour = "yellow"
